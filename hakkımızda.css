@@ -1,0 +1,19 @@
+h1{
+    color: white;
+    background-color:lightcoral;
+    inline-size: 380px;
+    margin-top: 50px;
+}
+li{
+    display: inline;
+    }
+    .info{
+        line-height: 12px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .container{
+        width: 900px;
+    }
+    .misyon{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
